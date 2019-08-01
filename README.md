@@ -9,5 +9,7 @@ It represents structure of sentence. Feel free to experiment with other types st
 ```
 g++ -o go sentencegenerator.cpp
 ```
+# Usage:
+!(image)[https://i.imgur.com/zkyPJ6w.png]
 Shoutout to 'Accelerated C++" which was inspiration
 
