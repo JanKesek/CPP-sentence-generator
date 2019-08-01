@@ -5,7 +5,7 @@ I used free Princeton University word-base https://wordnet.princeton.edu/downloa
  <part-of-speach>: list
  ```
 where list may consists of single words or `<part-of-speach>` (where part-of-speach is: verb,noun,noun.location,adjective)
-at the end of text file there is simple pair that looks like:
+At the end of text file there is simple pair that looks like:
 ```
 <sentence> : something
 ```
